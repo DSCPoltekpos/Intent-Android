@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Left">16dp</dimen>
+    <dimen name="Top">16dp</dimen>
+    <dimen name="Right">16dp</dimen>
+    <dimen name="Bottom">16dp</dimen>
+</resources>
